@@ -1,33 +1,33 @@
 {
   "quick": [
     {"title":"BTSC Fishery 231 Posts","url":"job.html?id=btsc-fishery-2026"},
-    {"title":"UPSC Latest Updates","url":"https://www.upsc.gov.in/"},
-    {"title":"SSC Official Portal","url":"https://ssc.gov.in/"},
-    {"title":"Railway Recruitment","url":"https://www.rrbapply.gov.in/"},
-    {"title":"IBPS Bank Recruitment","url":"https://www.ibps.in/"},
-    {"title":"SBI Careers","url":"https://sbi.bank.in/web/careers"},
-    {"title":"UPSC Apply Online","url":"https://upsconline.nic.in/"},
-    {"title":"SBI Results","url":"https://sbi.bank.in/en/web/careers/recruitment-results"}
+    {"title":"UPSC Latest Updates","url":"job.html?id=upsc-latest"},
+    {"title":"SSC Latest Updates","url":"job.html?id=ssc-latest"},
+    {"title":"Railway Recruitment","url":"job.html?id=railway-latest"},
+    {"title":"IBPS Bank Recruitment","url":"job.html?id=ibps-rrb-xv"},
+    {"title":"SBI Careers","url":"job.html?id=sbi-careers"},
+    {"title":"UPSC Apply Online","url":"job.html?id=upsc-latest"},
+    {"title":"SBI Results","url":"job.html?id=sbi-po-result-2026"}
   ],
   "jobs": [
     {"title":"Bihar BTSC Fishery Extension Officer Recruitment 2026 - 231 Posts","url":"job.html?id=btsc-fishery-2026","new":true},
-    {"title":"Bank of India Officers Recruitment 2026 - Apply by 25 Sep","url":"https://ibpsreg.ibps.in/boiaug26/","new":true},
-    {"title":"MECL Non-Executive Recruitment 2026 - Apply by 11 Oct","url":"https://ibpsreg.ibps.in/mecljul26/","new":true},
-    {"title":"IBPS CRP RRBs XV - Latest Updates","url":"https://www.ibps.in/","new":true},
-    {"title":"UPSC Engineering Services Preliminary Examination 2027 Notification","url":"https://www.upsc.gov.in/","new":true},
-    {"title":"UPSC Assistant Provident Fund Commissioner EPFO - 74 Posts Notice","url":"https://www.upsc.gov.in/","new":true}
+    {"title":"Bank of India Officers Recruitment 2026","url":"job.html?id=boi-officers-2026","new":true},
+    {"title":"MECL Non-Executive Recruitment 2026","url":"job.html?id=mecl-nonexec-2026","new":true},
+    {"title":"IBPS CRP RRBs XV - Latest Updates","url":"job.html?id=ibps-rrb-xv","new":true},
+    {"title":"UPSC Engineering Services Preliminary Examination 2027 Notification","url":"job.html?id=upsc-ese-2027","new":true},
+    {"title":"UPSC Assistant Provident Fund Commissioner EPFO - 74 Posts Notice","url":"job.html?id=upsc-epfo-apfc-2026","new":true}
   ],
   "results": [
-    {"title":"IBPS PO Prelims Result 2026 - Declared","url":"https://www.ibps.in/","new":true},
-    {"title":"UPSC Combined Medical Services Examination 2026 Written Result","url":"https://www.upsc.gov.in/","new":true},
-    {"title":"UPSC CAPF (ACs) Examination 2026 Written Result","url":"https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202026","new":true},
-    {"title":"UPSC CISF AC(EXE) LDCE 2026 Final Result","url":"https://www.upsc.gov.in/","new":true},
-    {"title":"SBI PO 2026 Preliminary Examination Result / Marks","url":"https://sbi.bank.in/en/web/careers/recruitment-results","new":true}
+    {"title":"IBPS PO Prelims Result 2026","url":"job.html?id=ibps-po-result-2026","new":true},
+    {"title":"UPSC Combined Medical Services Examination 2026 Written Result","url":"job.html?id=upsc-cms-result-2026","new":true},
+    {"title":"UPSC CAPF (ACs) Examination 2026 Written Result","url":"job.html?id=upsc-capf-result-2026","new":true},
+    {"title":"UPSC CISF AC(EXE) LDCE 2026 Final Result","url":"job.html?id=upsc-cisf-result-2026","new":true},
+    {"title":"SBI PO 2026 Preliminary Examination Result / Marks","url":"job.html?id=sbi-po-result-2026","new":true}
   ],
   "admit": [
-    {"title":"SBI Junior Associate (Clerk) Prelims Admit Card 2026","url":"https://sbi.bank.in/web/careers","new":true},
-    {"title":"SSC CGL Tier-I 2026 City / Admission Certificate Updates","url":"https://ssc.gov.in/","new":true},
-    {"title":"UPSC Admit Cards / e-Admit Cards","url":"https://www.upsc.gov.in/","new":true},
-    {"title":"SBI Recruitment Call Letters - Current Openings","url":"https://sbi.bank.in/web/careers","new":true}
+    {"title":"SBI Junior Associate (Clerk) Prelims Admit Card 2026","url":"job.html?id=sbi-clerk-admit-2026","new":true},
+    {"title":"SSC CGL Tier-I 2026 City / Admission Certificate Updates","url":"job.html?id=ssc-cgl-admit-2026","new":true},
+    {"title":"UPSC Admit Cards / e-Admit Cards","url":"job.html?id=upsc-admit-cards","new":true},
+    {"title":"SBI Recruitment Call Letters - Current Openings","url":"job.html?id=sbi-call-letters","new":true}
   ]
 }
