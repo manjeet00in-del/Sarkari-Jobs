@@ -29,5 +29,23 @@
     {"title":"SSC CGL Tier-I 2026 City / Admission Certificate Updates","url":"job.html?id=ssc-cgl-admit-2026","new":true},
     {"title":"UPSC Admit Cards / e-Admit Cards","url":"job.html?id=upsc-admit-cards","new":true},
     {"title":"SBI Recruitment Call Letters - Current Openings","url":"job.html?id=sbi-call-letters","new":true}
+  ],
+  "answerKey": [
+    {"title":"Railway RRB Answer Key Updates","url":"job.html?id=railway-latest","new":true},
+    {"title":"SSC Answer Key Updates","url":"job.html?id=ssc-latest","new":true},
+    {"title":"UPSC Examination Answer Key Updates","url":"job.html?id=upsc-latest","new":false},
+    {"title":"Banking Exam Answer Key / Response Updates","url":"job.html?id=ibps-rrb-xv","new":false}
+  ],
+  "syllabus": [
+    {"title":"SSC Examination Syllabus & Pattern","url":"job.html?id=ssc-latest","new":true},
+    {"title":"UPSC Examination Syllabus Updates","url":"job.html?id=upsc-latest","new":false},
+    {"title":"Railway Recruitment Exam Syllabus","url":"job.html?id=railway-latest","new":false},
+    {"title":"IBPS / Banking Exam Syllabus","url":"job.html?id=ibps-rrb-xv","new":false}
+  ],
+  "admission": [
+    {"title":"UPSC Examination / Application Updates","url":"job.html?id=upsc-latest","new":true},
+    {"title":"Government Admission Updates","url":"#admission","new":false},
+    {"title":"Scholarship & Education Updates","url":"#admission","new":false},
+    {"title":"Entrance Examination Updates","url":"#admission","new":false}
   ]
 }
