@@ -6,7 +6,7 @@
     {"title":"Railway Recruitment","url":"job.html?id=railway-latest"},
     {"title":"IBPS Bank Recruitment","url":"job.html?id=ibps-rrb-xv"},
     {"title":"SBI Careers","url":"job.html?id=sbi-careers"},
-    {"title":"IIT JAM 2027 Apply","url":"https://joaps.iitkgp.ac.in/home"},
+    {"title":"IIT JAM 2027 Apply","url":"job.html?id=jam-2027-admission"},
     {"title":"SBI Results","url":"job.html?id=sbi-po-result-2026"}
   ],
   "jobs": [
@@ -31,21 +31,21 @@
     {"title":"SBI Recruitment Call Letters - Current Openings","url":"job.html?id=sbi-call-letters","new":true}
   ],
   "answerKey": [
-    {"title":"SSC Stenographer Grade C & D Answer Key 2026 - Objection till 26 Sep","url":"https://ssc.gov.in/home/answer-key","new":true},
-    {"title":"SSC Combined Hindi Translators Paper-I Answer Key 2026","url":"https://ssc.gov.in/home/answer-key","new":true},
-    {"title":"UPSC NDA & NA (II) 2026 Provisional Answer Key","url":"https://www.upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28II%29%2C%202026","new":true},
-    {"title":"UPSC Answer Keys - Official Updates","url":"https://www.upsc.gov.in/","new":false}
+    {"title":"SSC Stenographer Grade C & D Answer Key 2026 - Objection till 26 Sep","url":"job.html?id=ssc-steno-answer-2026","new":true},
+    {"title":"SSC Combined Hindi Translators Paper-I Answer Key 2026","url":"job.html?id=ssc-cht-answer-2026","new":true},
+    {"title":"UPSC NDA & NA (II) 2026 Provisional Answer Key","url":"job.html?id=upsc-nda2-answer-2026","new":true},
+    {"title":"UPSC Answer Keys - Official Updates","url":"job.html?id=upsc-answer-keys","new":false}
   ],
   "syllabus": [
-    {"title":"UPSC Revised Syllabus & Scheme - Official","url":"https://www.upsc.gov.in/","new":true},
-    {"title":"UPSC Civil Services Exam Resources / Syllabus","url":"https://www.upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202026","new":false},
-    {"title":"UPSC CAPF (ACs) Exam Scheme / Resources","url":"https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202026","new":false},
-    {"title":"UPSC 2026 Previous Question Papers","url":"https://www.upsc.gov.in/examinations/previous-question-papers","new":false}
+    {"title":"IIT JAM 2027 Syllabus & Test Pattern","url":"job.html?id=jam-2027-syllabus","new":true},
+    {"title":"UPSC Revised Syllabus & Scheme - Official","url":"job.html?id=upsc-syllabus","new":true},
+    {"title":"UPSC Civil Services Exam Resources / Syllabus","url":"job.html?id=upsc-cse-syllabus","new":false},
+    {"title":"UPSC CAPF (ACs) Exam Scheme / Resources","url":"job.html?id=upsc-capf-syllabus","new":false}
   ],
   "admission": [
-    {"title":"IIT JAM 2027 Online Application - Last Date 19 Oct 2026","url":"https://joaps.iitkgp.ac.in/home","new":true},
-    {"title":"IIT JAM 2027 Official Information - Exam 14 Feb 2027","url":"https://www.jam.iitkgp.ac.in/","new":true},
-    {"title":"UPRTOU July 2026 Admission - Extended till 30 Sep 2026","url":"https://uprtou.ac.in/admission_front_page.php","new":true},
-    {"title":"UPRTOU Ph.D. Admission & Entrance Test 2026-27","url":"https://www.uprtou.ac.in/news_layout_page.php?id=admission","new":true}
+    {"title":"IIT JAM 2027 Online Application - Last Date 19 Oct 2026","url":"job.html?id=jam-2027-admission","new":true},
+    {"title":"IIT JAM 2027 Official Information - Exam 14 Feb 2027","url":"job.html?id=jam-2027-info","new":true},
+    {"title":"UPRTOU July 2026 Admission - Extended till 30 Sep 2026","url":"job.html?id=uprtou-july-2026-admission","new":true},
+    {"title":"UPRTOU Ph.D. Admission & Entrance Test 2026-27","url":"job.html?id=uprtou-phd-2026","new":true}
   ]
 }
