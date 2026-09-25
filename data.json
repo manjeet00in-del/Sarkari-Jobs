@@ -1,25 +1,34 @@
 {
   "quick": [
-    {"title":"UP Latest Vacancy","url":"https://example.com"},
-    {"title":"SSC Recruitment","url":"https://example.com"},
-    {"title":"Railway Recruitment","url":"https://example.com"},
-    {"title":"Bank Recruitment","url":"https://example.com"},
-    {"title":"Police Vacancy","url":"https://example.com"},
-    {"title":"Scholarship Update","url":"https://example.com"},
-    {"title":"India Post GDS","url":"https://example.com"},
-    {"title":"Teaching Jobs","url":"https://example.com"}
+    {"title":"UPSC Latest Updates","url":"https://www.upsc.gov.in/"},
+    {"title":"SSC Official Portal","url":"https://ssc.gov.in/"},
+    {"title":"Railway Recruitment","url":"https://www.rrbapply.gov.in/"},
+    {"title":"IBPS Bank Recruitment","url":"https://www.ibps.in/"},
+    {"title":"SBI Careers","url":"https://sbi.bank.in/web/careers"},
+    {"title":"UPSC Apply Online","url":"https://upsconline.nic.in/"},
+    {"title":"UPSC Results","url":"https://www.upsc.gov.in/"},
+    {"title":"SBI Results","url":"https://sbi.bank.in/en/web/careers/recruitment-results"}
   ],
   "jobs": [
-    {"title":"Sample UP Recruitment 2026","url":"https://example.com","new":true},
-    {"title":"Sample SSC Vacancy 2026","url":"https://example.com","new":true},
-    {"title":"Sample Railway Recruitment 2026","url":"https://example.com","new":false}
+    {"title":"Bank of India Officers Recruitment 2026 - Apply by 25 Sep","url":"https://ibpsreg.ibps.in/boiaug26/","new":true},
+    {"title":"MECL Non-Executive Recruitment 2026 - Apply by 11 Oct","url":"https://ibpsreg.ibps.in/mecljul26/","new":true},
+    {"title":"IBPS CRP RRBs XV - Latest Updates","url":"https://www.ibps.in/","new":true},
+    {"title":"UPSC Engineering Services Preliminary Examination 2027 Notification","url":"https://www.upsc.gov.in/","new":true},
+    {"title":"UPSC Assistant Provident Fund Commissioner EPFO - 74 Posts Notice","url":"https://www.upsc.gov.in/","new":true},
+    {"title":"UPSC Advertisement No. 11/2026 - Recruitment Updates","url":"https://www.upsc.gov.in/","new":true}
   ],
   "results": [
-    {"title":"Sample Exam Result 2026","url":"https://example.com","new":true},
-    {"title":"Sample Board Result Update","url":"https://example.com","new":false}
+    {"title":"IBPS PO Prelims Result 2026 - Declared","url":"https://www.ibps.in/","new":true},
+    {"title":"UPSC Combined Medical Services Examination 2026 Written Result","url":"https://www.upsc.gov.in/","new":true},
+    {"title":"UPSC CAPF (ACs) Examination 2026 Written Result","url":"https://www.upsc.gov.in/examinations/Central%20Armed%20Police%20Forces%20%28ACs%29%20Examination%2C%202026","new":true},
+    {"title":"UPSC CISF AC(EXE) LDCE 2026 Final Result","url":"https://www.upsc.gov.in/","new":true},
+    {"title":"SBI PO 2026 Preliminary Examination Result / Marks","url":"https://sbi.bank.in/en/web/careers/recruitment-results","new":true},
+    {"title":"SBI Recruitment Results - Latest Announcements","url":"https://sbi.bank.in/en/web/careers/recruitment-results","new":true}
   ],
   "admit": [
-    {"title":"Sample Admit Card 2026","url":"https://example.com","new":true},
-    {"title":"Sample Exam City / Admit Card","url":"https://example.com","new":false}
+    {"title":"SBI Junior Associate (Clerk) Prelims Admit Card 2026","url":"https://sbi.bank.in/web/careers","new":true},
+    {"title":"SSC CGL Tier-I 2026 City / Admission Certificate Updates","url":"https://ssc.gov.in/","new":true},
+    {"title":"UPSC Admit Cards / e-Admit Cards","url":"https://www.upsc.gov.in/","new":true},
+    {"title":"SBI Recruitment Call Letters - Current Openings","url":"https://sbi.bank.in/web/careers","new":true}
   ]
 }
