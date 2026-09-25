@@ -1,0 +1,25 @@
+{
+  "quick": [
+    {"title":"UP Latest Vacancy","url":"https://example.com"},
+    {"title":"SSC Recruitment","url":"https://example.com"},
+    {"title":"Railway Recruitment","url":"https://example.com"},
+    {"title":"Bank Recruitment","url":"https://example.com"},
+    {"title":"Police Vacancy","url":"https://example.com"},
+    {"title":"Scholarship Update","url":"https://example.com"},
+    {"title":"India Post GDS","url":"https://example.com"},
+    {"title":"Teaching Jobs","url":"https://example.com"}
+  ],
+  "jobs": [
+    {"title":"Sample UP Recruitment 2026","url":"https://example.com","new":true},
+    {"title":"Sample SSC Vacancy 2026","url":"https://example.com","new":true},
+    {"title":"Sample Railway Recruitment 2026","url":"https://example.com","new":false}
+  ],
+  "results": [
+    {"title":"Sample Exam Result 2026","url":"https://example.com","new":true},
+    {"title":"Sample Board Result Update","url":"https://example.com","new":false}
+  ],
+  "admit": [
+    {"title":"Sample Admit Card 2026","url":"https://example.com","new":true},
+    {"title":"Sample Exam City / Admit Card","url":"https://example.com","new":false}
+  ]
+}
